@@ -14,7 +14,7 @@ The MultiLanguage Invoice Extractor is a Streamlit web application that leverage
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/multilanguage-invoice-extractor.git
+   git clone https://github.com/amitm15/multilanguage-invoice-extractor.git
    cd multilanguage-invoice-extractor
 
 2. **Create and activate a virtual environment:**

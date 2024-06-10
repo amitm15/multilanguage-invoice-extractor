@@ -33,7 +33,7 @@ The MultiLanguage Invoice Extractor is a Streamlit web application that leverage
    GOOGLE_API_KEY=your_google_api_key
 
 
-## Features
+## Usage
 1. **Run the Streamlit application:**
    ```bash
    streamlit run app.py
